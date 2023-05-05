@@ -69,8 +69,6 @@ MVVM Architecture, iOS 15+, device: iphone.
 
    </div>
 
-## Author
-* [Bogdan Zykov](https://github.com/BogdanZyk)
 
 ## License
 
